@@ -32,3 +32,5 @@ README.rst merge=ours
 MANIFEST.in merge=ours
 examples/*.png merge=ours
 exernal merge=ours
+.gitignore merge=ours
+00-make-gh-pages.sh merge=ours
