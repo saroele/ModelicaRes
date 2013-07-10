@@ -25,7 +25,6 @@ files="doc/_static/*
        doc/loadres.rst
        doc/modelicares.rst
        doc/multi.rst
-       doc/simres.info.rst
        doc/simres.rst
        doc/texunit.rst" # index.rst not included because it's custom here
 

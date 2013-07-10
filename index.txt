@@ -8,7 +8,6 @@ ModelicaRes is a free, open-source tool to manage Modelica_ simulations,
 interpret results, and create publishable figures.  It is currently possible to
 
 - Auto-generate simulation scripts,
-- Run model executables with varying parameters,
 - Browse data,
 - Perform custom calculations, and
 - Produce various plots and diagrams.
@@ -25,61 +24,54 @@ math and matrix functions from NumPy_.
      :scale: 45 %
      :alt: Variable browser
 
-  .. image:: examples/PIDs-nyquist.png
+  .. image:: ../examples/PIDs-nyquist.png
      :scale: 35 %
      :alt: Nyquist plot of PID with varying differential time constant
 
   |
 
-  .. image:: examples/ChuaCircuit.png
+  .. image:: ../examples/ChuaCircuit.png
      :scale: 35 %
      :alt: Plot of Chua circuit
 
-  .. image:: examples/ThreeTanks.png
+  .. image:: ../examples/ThreeTanks.png
      :scale: 35 %
      :alt: Sankey digarams of three tanks model
 
-  The links below describe the components of ModelicaRes.  The top-level module,
-  :mod:`modelicares`, provides direct access to the most important classes and
-  functions.  Others must be accessed through their submodules.  The
-  :mod:`loadres` script loads data files and provides a Python_ interpreter to
-  help analyze them.  The :mod:`modelicares.simres` submodule has classes to
-  load, analyze, and plot simulation results.  The :mod:`modelicares.linres`
-  submodule has a class to load, analyze, and plot results from linearizing a
-  model.  The :mod:`modelicares.multi` submodule has functions to load and plot
-  results from multiple data files at once.  The :mod:`modelicares.exps`
-  submodule has tools to set up and manage simulation experiments.  The
-  :mod:`modelicares.texunit` submodule has functions to translate Modelica_
-  *unit* and *displayUnit* strings into LaTeX_-formatted strings.  The last
-  submodule, :mod:`modelicares.base`, has general supporting functions.
+  The links below and in the sidebar describe the components of ModelicaRes.
+  For an introduction see :mod:`loadres`, which loads data files and provides a
+  Python_ interpreter to help analyze them.
 
 .. only:: latex
 
-  .. figure:: _static/browse.png
+  .. image:: _static/browse.png
      :scale: 60 %
 
-  .. figure:: examples/PIDs-nyquist.pdf
+  .. image:: ../examples/PIDs-nyquist.pdf
      :scale: 50 %
 
-  .. figure:: examples/ThreeTanks.pdf
+  .. image:: ../examples/ThreeTanks.pdf
      :scale: 50 %
 
-  .. figure:: examples/ChuaCircuit.pdf
+  .. image:: ../examples/ChuaCircuit.pdf
      :scale: 50 %
 
-  The following chapters describe the components of ModelicaRes.  The top-level
-  module, :mod:`modelicares`, provides direct access to the most important
-  classes and functions.  Others must be accessed through their submodules.  The
-  :mod:`loadres` script loads data files and provides a Python_ interpreter to
-  help analyze them.  The :mod:`modelicares.simres` submodule has classes to
-  load, analyze, and plot simulation results.  The :mod:`modelicares.linres`
-  submodule has a class to load, analyze, and plot results from linearizing a
-  model.  The :mod:`modelicares.multi` submodule has functions to load and plot
-  results from multiple data files at once.  The :mod:`modelicares.exps`
-  submodule has tools to set up and manage simulation experiments.  The
-  :mod:`modelicares.texunit` submodule has functions to translate Modelica_
-  *unit* and *displayUnit* strings into LaTeX_-formatted strings.  The last
-  submodule, :mod:`modelicares.base`, has general supporting functions.
+  The following chapters describe the components of ModelicaRes.  For an
+  introduction see :mod:`loadres`, which loads data files and provides a Python_
+  interpreter to help analyze them.
+
+  The top-level module, :mod:`modelicares`, provides direct access to the most
+  important classes and functions.  Others must be accessed through their
+  submodules.  The :mod:`loadres` script   The :mod:`modelicares.simres`
+  submodule has classes to load, analyze, and plot simulation results.
+  The :mod:`modelicares.linres` submodule has a class to load, analyze, and plot
+  results from linearizing a model.  The :mod:`modelicares.multi` submodule has
+  functions to load and plot results from multiple data files at once. The
+  :mod:`modelicares.exps` submodule has tools to set up and manage simulation
+  experiments.  The :mod:`modelicares.texunit` submodule has functions to
+  translate Modelica_ *unit* and *displayUnit* strings into LaTeX_-formatted
+  strings.  The last submodule, :mod:`modelicares.base`, has general supporting
+  functions.
 
   **Installation**
 
@@ -114,12 +106,15 @@ math and matrix functions from NumPy_.
   - Joerg Raedler (method to expand a `Modelica`_ variable tree - from
     `DyMat`_).
 
-  **License terms**
+  **License terms and development**
 
-  ModelicaRes_ is published under the terms of the BSD license (see LICENSE.txt).
-  Please share any modifications you make (preferably on a Github fork from
-  https://github.com/kdavies4/ModelicaRes) so that others may benefit from your
-  work.
+  ModelicaRes_ is published under the terms of the BSD license (see
+  LICENSE.txt).  Please share any modifications you make (preferably on a Github
+  fork from https://github.com/kdavies4/ModelicaRes) so that others may benefit
+  from your work.  If you find a bug, please `report it
+  <https://github.com/kdavies4/ModelicaRes/issues/new>`_.  If you have
+  suggestions for improvements, please `share them here
+  <https://github.com/kdavies4/ModelicaRes/wiki/Possible-Enhancements>`_.
 
   **See also**
 
@@ -146,10 +141,9 @@ math and matrix functions from NumPy_.
 
 .. toctree::
 
-  modelicares
   loadres
+  modelicares
   simres
-  simres.info
   linres
   multi
   exps
@@ -159,6 +153,18 @@ math and matrix functions from NumPy_.
 
 .. only:: html
 
+  The top-level module, :mod:`modelicares`, provides direct access to the most
+  important classes and functions.  Others must be accessed through their
+  submodules.  The :mod:`loadres` script   The :mod:`modelicares.simres`
+  submodule has classes to load, analyze, and plot simulation results.
+  The :mod:`modelicares.linres` submodule has a class to load, analyze, and plot
+  results from linearizing a model.  The :mod:`modelicares.multi` submodule has
+  functions to load and plot results from multiple data files at once. The
+  :mod:`modelicares.exps` submodule has tools to set up and manage simulation
+  experiments.  The :mod:`modelicares.texunit` submodule has functions to
+  translate Modelica_ *unit* and *displayUnit* strings into LaTeX_-formatted
+  strings.  The last submodule, :mod:`modelicares.base`, has general supporting
+  functions.
   A PDF version of this documentation is available `here <ModelicaRes.pdf>`_.
 
   **Installation**
