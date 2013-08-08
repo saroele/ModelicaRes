@@ -8,77 +8,98 @@
 
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/genindex.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/py-modindex.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://kdavies4.github.io/ModelicaRes/modelicares.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/loadres.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kdavies4.github.io/ModelicaRes/modelicares.html</loc>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/simres.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>http://kdavies4.github.io/ModelicaRes/simres.info.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/linres.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/multi.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/exps.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/exps.doe.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/texunit.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/base.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kdavies4.github.io/ModelicaRes/Changelog.html</loc>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/ModelicaRes.pdf</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://kdavies4.github.io/ModelicaRes/License.html</loc>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://kdavies4.github.io/ModelicaRes/index.html</loc>
-  <lastmod>2013-07-07T02:43:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
+  <lastmod>2013-08-09T12:20:40+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
 </url>
 </urlset>
