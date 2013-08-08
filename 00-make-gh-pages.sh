@@ -22,6 +22,10 @@ files="doc/_static/*
        doc/exps.doe.rst
        doc/exps.rst
        doc/linres.rst
+       doc/Changelog.rst
+       doc/License.rst
+       CHANGES.txt
+       LICENSE.txt
        doc/loadres.rst
        doc/modelicares.rst
        doc/multi.rst
